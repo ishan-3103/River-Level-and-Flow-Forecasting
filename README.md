@@ -178,6 +178,8 @@ B.Tech Robotics & Artificial Intelligence
 
 COEP Technological University
 
+Phone no.: 7066411683
+
 📧 ishanpathak3103@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/ishan-pathak-435194326/
