@@ -1,7 +1,3 @@
-Here's what I propose
-
-Instead of a simple README, let's make it something like this:
-
 🌊 River Level and Flow Forecasting using Deep Learning
 
 📖 Overview
