@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Datasets
+Data/Raw/*.csv
+Data/Processed/
+
+# Trained Models
+*.keras
+*.h5
+*.pkl
+
+# Logs
+*.log
